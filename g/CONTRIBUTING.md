@@ -163,3 +163,5 @@ A technically correct example can still be rejected if it teaches a poor product
 ## Educational integrity
 
 Please do not copy large portions of proprietary code or introduce examples whose licensing is unclear. Prefer code that the project can safely redistribute and learners can confidently study.
+
+---
